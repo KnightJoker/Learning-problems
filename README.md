@@ -1,5 +1,5 @@
-�й����Լ�ѧϰ�����һЩ�����Լ��������~
+这个库暂时放置
 
-�����պ�����Լ��鿴
+后面用来更新算法复习
 
-�������Ȥ��ͬѧ����[����](https://github.com/KnightJoker/Learning-problems/wiki)��
+如果有需要的童鞋可以移步这里 [来自遥远星系的技术空间站](http://dbcxl.com/)
