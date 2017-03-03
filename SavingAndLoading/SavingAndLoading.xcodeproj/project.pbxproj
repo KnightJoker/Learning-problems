@@ -18,6 +18,7 @@
 		22D719E81DC9E9F90058896B /* KJData.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D719E21DC9E9F90058896B /* KJData.m */; };
 		22D719E91DC9E9F90058896B /* KJAssetType+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D719E41DC9E9F90058896B /* KJAssetType+CoreDataProperties.m */; };
 		22D719EA1DC9E9F90058896B /* KJAssetType.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D719E61DC9E9F90058896B /* KJAssetType.m */; };
+		22D719ED1DCB0C2D0058896B /* KJItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 22D719EC1DCB0C2D0058896B /* KJItem.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,8 @@
 		22D719E41DC9E9F90058896B /* KJAssetType+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "KJAssetType+CoreDataProperties.m"; sourceTree = "<group>"; };
 		22D719E51DC9E9F90058896B /* KJAssetType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KJAssetType.h; sourceTree = "<group>"; };
 		22D719E61DC9E9F90058896B /* KJAssetType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KJAssetType.m; sourceTree = "<group>"; };
+		22D719EB1DCB0C2D0058896B /* KJItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KJItem.h; sourceTree = "<group>"; };
+		22D719EC1DCB0C2D0058896B /* KJItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KJItem.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +79,8 @@
 				22D719C91DC992D30058896B /* AppDelegate.m */,
 				22D719CB1DC992D30058896B /* ViewController.h */,
 				22D719CC1DC992D30058896B /* ViewController.m */,
+				22D719EB1DCB0C2D0058896B /* KJItem.h */,
+				22D719EC1DCB0C2D0058896B /* KJItem.m */,
 				22D719CE1DC992D30058896B /* Main.storyboard */,
 				22D719D11DC992D30058896B /* Assets.xcassets */,
 				22D719D31DC992D30058896B /* LaunchScreen.storyboard */,
@@ -175,6 +180,7 @@
 				22D719E81DC9E9F90058896B /* KJData.m in Sources */,
 				22D719E91DC9E9F90058896B /* KJAssetType+CoreDataProperties.m in Sources */,
 				22D719CD1DC992D30058896B /* ViewController.m in Sources */,
+				22D719ED1DCB0C2D0058896B /* KJItem.m in Sources */,
 				22D719E71DC9E9F90058896B /* KJData+CoreDataProperties.m in Sources */,
 				22D719CA1DC992D30058896B /* AppDelegate.m in Sources */,
 				22D719C71DC992D30058896B /* main.m in Sources */,
@@ -328,6 +334,7 @@
 				22D719DB1DC992D30058896B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
